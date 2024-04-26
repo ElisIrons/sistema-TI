@@ -59,3 +59,15 @@ Utilizamos controladores JavaSpring para definir as rotas e o comportamento do s
 
 * Banco de Dados (simulado): Embora não esteja conectado a um banco de dados real, 
 o sistema simula o armazenamento e recuperação de dados para fins de demonstração e teste.
+
+***
+
+## Equipe:
+
+- [Bianca Barreto](https://github.com/BiancalBarreto)
+- [Elis Rodrigues](https://github.com/ElisIrons)
+- [Érica Viera](https://github.com/ericajv)
+- [Emanuelle Cruz](https://github.com/manuscruz)
+- [Ingrid](https://github.com/iingrud)
+- [Rayla Silva](https://github.com/raylasilva)
+- [Rosana Oliveira](https://github.com/SanaOliver)
